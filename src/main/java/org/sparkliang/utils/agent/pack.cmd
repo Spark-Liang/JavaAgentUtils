@@ -1,0 +1,1 @@
+jar cvfm PreparedStatementAgent.jar Manifest.mf -C ..\..\ .

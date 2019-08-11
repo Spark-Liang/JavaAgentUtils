@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Premain-Class: org.sparkliang.utils.agent.PreparedStatementAgent
+Class-Path: libs/log4j-1.2.17.jar
+    libs/javassist-3.25.0-GA.jar
